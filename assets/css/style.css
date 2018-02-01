@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    
+}
+
+html {
+    position: relative;
+}
+
+header {
+    width: 100%;
+    height: auto;
+    border-bottom: 5px solid #dddddd;
+    background-color: #ffffff;
+}
+
+header .container {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.name, .nav {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.name {
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+.logo {
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    background-color: #17fffe;
+    padding: 1em;
+    width: auto;
+}
+
+
+img.selfie {
+    float: left;
+    padding: 0 1em;
+}
+
+.content {
+    width: 960px;
+    clear: both;
+    margin: 0 auto 5em auto;
+    float: left;
+}
+
+.main {
+    display: inline-block;
+    width: 500px;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 2px solid #dddddd;
+}
+
+
+
